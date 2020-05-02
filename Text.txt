@@ -1,2 +1,2 @@
 text
-update to git
+update to github 
